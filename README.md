@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on Web Technologies 
 - 📫 How to reach me ... https://twitter.com/Anucognito
+- 📩 Drop a Mail on annuv231@gmail.com
 
 <!---
 annuv231/annuv231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
