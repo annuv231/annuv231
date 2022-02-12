@@ -22,20 +22,9 @@
 - 📩 Drop a Mail on annuv231@gmail.com
 
 ## Github Stat 
-<a href="https://github.com/annuv231">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annuv231&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/annuv231">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=annuv231&show_icons=true&theme=light&line_height=27" alt="github stats"/>
-</a>
-<!-- <a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=light" />
 
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
-</a> -->
-
+  <img align="left" width="47%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annuv231&theme=light&hide_langs_below=1 &layout=compact" />
+ <img align="left" width="47%" height="50%" src="https://github-readme-stats.vercel.app/api?username=annuv231&show_icons=true&theme=light&line_height=27" alt="github stats"/>
 <!---
 annuv231/annuv231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
