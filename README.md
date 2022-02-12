@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @annuv231
+- 👋 Hi, I’m Amlendra
 - 👀 I’m interested in MERN, New digital Technologies like BLockChain,Big Data and cloud computing
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning [***React JS***](https://reactjs.org/)
 - 💞️ I’m looking to collaborate on Web Technologies 
-- 📫 How to reach me ... https://twitter.com/Anucognito
+- 📫 How to reach me ... [***Twitter***](https://twitter.com/Anucognito)
 - 📩 Drop a Mail on annuv231@gmail.com
 
 <!---
