@@ -25,6 +25,15 @@
 
   <img align="left" width="47%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annuv231&theme=light&hide_langs_below=1 &layout=compact" />
  <img align="left" width="47%" height="50%" src="https://github-readme-stats.vercel.app/api?username=annuv231&show_icons=true&theme=light&line_height=27" alt="github stats"/>
+ # Contribution graph
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <th colspan="2"><img src="https://activity-graph.herokuapp.com/graph?username=annuv231&theme=tokyo-night" alt="annuv231's contribution timeline" /></th>
+        </tr>
+    </tbody>
+</table>
+
 <!---
 annuv231/annuv231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
