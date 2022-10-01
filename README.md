@@ -1,4 +1,4 @@
-## Hi, I am Amlendra
+## Hi, Amlendra here!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annuv231&label=Views&color=yellow&style=plastic" alt="amlendra" /> </p>
 
@@ -16,7 +16,7 @@
 ## About Me :
 - 👨‍💻 I'm currently working in [**TCS**](https://www.tcs.com/)
 - 👀 Manifesting Web3
-- 🌱 I’m currently learning [***React JS***](https://reactjs.org/)
+- 🌱 I’m currently learning [***Node js***](https://nodejs.org/)
 - 💞️ I’m looking to collaborate on Web Technologies 
 - 📫 How to reach me? .. well drop a dm on [***Twitter***](https://twitter.com/Anucognito)
 - 📩 Drop a Mail on annuv231@gmail.com
