@@ -21,10 +21,16 @@
 - 📫 How to reach me? .. well drop a dm on [***Twitter***](https://twitter.com/Anucognito)
 - 📩 Drop a Mail on annuv231@gmail.com
 
-## Github Stat 
+# GitHub Stats
 
-  <img align="left" width="47%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annuv231&theme=light&hide_langs_below=1 &layout=compact" />
- <img align="left" width="47%" height="50%" src="https://github-readme-stats.vercel.app/api?username=annuv231&show_icons=true&theme=light&line_height=27" alt="github stats"/>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=annuv231&show_icons=true&locale=en&theme=tokyonight" alt="Amlendra's GitHub Stats" />               </td>
+            <td><img src="https://streak-stats.demolab.com/?user=annuv231&theme=tokyonight" alt="Amlendra's GitHub Stats" /></td>
+        </tr>
+    </thead>
+</table>
  # Contribution graph
 <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tbody>
