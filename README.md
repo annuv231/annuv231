@@ -1,17 +1,11 @@
 ## Hi, Amlendra here!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=annuv231&label=Views&color=yellow&style=plastic" alt="amlendra" /> </p>
+p align="left">
+<a href="https://linkedin.com/in/aml3ndra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanshu" height="20" width="30" /></a>
+<a href="https://twitter.com/anucognito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_dipansh" height="20" width="30" /></a>
+<a href="https://www.leetcode.com/aml3ndra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i-dipanshu" height="20" width="30" /></a>
+</p>
 
-<a href="https://twitter.com/Anucognito">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/amlendra">
-  <img align="left" alt="linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/annuv231">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<br/> 
 
 ## About Me :
 - 👨‍💻 I'm currently working in [**TCS**](https://www.tcs.com/)
