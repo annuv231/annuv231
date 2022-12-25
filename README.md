@@ -35,7 +35,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
-            <th colspan="2"><img src="https://activity-graph.herokuapp.com/graph?username=annuv231&theme=tokyo-night" alt="annuv231's contribution timeline" /></th>
+            <th colspan="2"><img src="[![Amlendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=annuv231)](https://github.com/annuv231/github-readme-activity-graph)" /></th>
         </tr>
     </tbody>
 </table>
