@@ -6,10 +6,6 @@
 <a href="https://www.leetcode.com/aml3ndra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i-dipanshu" height="20" width="30" /></a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1003163928777470094)](https://discord.com/users/1003163928777470094/idleMessage=testing)
-
-<img src="https://profile-counter.glitch.me/annuv231/count.svg" />
-
 ![Snake animation](https://github.com/annuv231/annuv231/blob/output/github-contribution-grid-snake.svg)
 
 ## About Me :
