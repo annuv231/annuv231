@@ -14,8 +14,8 @@
 
 ## About Me :
 - 👨‍💻 I'm currently working in [**TCS**](https://www.tcs.com/)
-- 👀 Manifesting Web3=
-- 💞️ I’m looking to collaborate on Web Technologies 
+- 👀 Manifesting DevOps 
+- 💞️ I’m looking to collaborate on cloud Technologies 
 - 📫 How to reach me? .. well drop a dm on [***Twitter***](https://twitter.com/amlendraJS)
 - 📩 Drop a Mail on annuv231@gmail.com
 
