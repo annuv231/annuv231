@@ -6,7 +6,8 @@
 <a href="https://www.leetcode.com/aml3ndra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i-dipanshu" height="20" width="30" /></a>
 </p>
 
-![Snake animation](https://github.com/annuv231/annuv231/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/annuv231/annuv231/blob/output/github-snake-dark.svg)
+
 
 ## About Me :
 - 👨‍💻 I'm currently working in [**TCS**](https://www.tcs.com/)
