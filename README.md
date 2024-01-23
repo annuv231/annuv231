@@ -1,7 +1,7 @@
 ## Hi, Amlendra here!
 
 <p align="left">
-<a href="[https://linkedin.com/in/aml3ndra](https://www.linkedin.com/in/amlendra/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanshu" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/amlendra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanshu" height="20" width="30" /></a>
 <a href="https://twitter.com/amlendraJS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_dipansh" height="20" width="30" /></a>
 <a href="https://www.leetcode.com/aml3ndra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i-dipanshu" height="20" width="30" /></a>
 </p>
