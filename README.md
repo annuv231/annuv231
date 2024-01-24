@@ -1,4 +1,7 @@
-## Hi, Amlendra here!
+## Hello there, I'm Amlendra
+
+ Experienced System Administrator with over 2 years and 8 months of hands-on expertise in Windows, Linux administration. Got exposer of cloud technologies (AWS and Azure), automation tools (puppet,uipath), and proficiency in automating tasks with bash/PS shell scripting. Seeking a challenging position to leverage my skills in system administration, cloud computing, and DevOps. 
+ 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/amlendra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanshu" height="20" width="30" /></a>
@@ -9,12 +12,15 @@
 ![Snake animation](https://github.com/annuv231/annuv231/blob/output/github-snake-dark.svg)
 
 
-## About Me :
-- 👨‍💻 I'm currently working in [**TCS**](https://www.tcs.com/)
-- 👀 Manifesting DevOps 
-- 💞️ I’m looking to collaborate on cloud Technologies 
-- 📫 How to reach me? .. well drop a dm on [***Twitter***](https://twitter.com/amlendraJS)
-- 📩 Drop a Mail on annuv231@gmail.com
+
+## Professional skils
+- Operating System - Linux, Windows
+- Language - C++, Shell scripting
+- Automation - Puppet and familiar with Ansible 
+- Version Control- Github,gitlab
+- Containerization- Docker, K8s
+- Agile Development
+-  AWS,  Azure and Terraform, UiPath
 
 # GitHub Stats
 
@@ -27,15 +33,7 @@
     </thead>
 </table>
 
- # Contribution graph
- 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tbody>
-        <tr>
-            <th colspan="2"><img src="[![Amlendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=annuv231)](https://github.com/annuv231/github-readme-activity-graph)" /></th>
-        </tr>
-    </tbody>
-</table>
+
 
 <!---
 annuv231/annuv231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
