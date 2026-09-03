@@ -1,6 +1,6 @@
 ## Hello there, I'm Amlendra
 
-Portfolio website: https://amlendra.site
+Portfolio website: https://amlendra.me
 
 
 # GitHub Stats
